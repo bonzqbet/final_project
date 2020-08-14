@@ -55,7 +55,7 @@ coding run on Raspberry Pi 4
 #
 #
 7. ###### หน้าค้นหารถที่เข้า-ออก ตามวันเวลาที่ต้องการได้
-![capture](https://www.img.in.th/images/85f17154c9edf6786796198e060842d0.png)
+[![admincheck.png](https://i.postimg.cc/FzjdhjfG/admincheck.png)](https://postimg.cc/RJZVRJLn)
 * เป็นหน้าค้นหาจำนวนรถที่เข้า-ออก ตามเวลาที่กำหนดได้
 #
 #
