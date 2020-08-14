@@ -36,7 +36,7 @@ coding run on Raspberry Pi 4
 #
 #
 4. ###### หน้าเพิ่มข้อมูลรถยนต์
-![capture](https://www.img.in.th/images/a5f2cb8816cf44a24e433fcd4f020613.png)
+[![user-Register.png](https://i.postimg.cc/Jnx5RV9G/user-Register.png)](https://postimg.cc/5YHCmG9V)
 * เป็นหน้าเพิ่มข้อมูลต่างๆของรถยนต์
    * ผู้ใช้ต้อง Scan QR code เพื่อรับ LINE UID จากระบบ
    * จากนั้นนำ LINE UID กรอกลงช่องเพื่อที่จะได้รับการแจ้งเตือนและการกระทำต่างๆผ่าน LINE ได้
