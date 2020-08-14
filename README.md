@@ -48,7 +48,7 @@ coding run on Raspberry Pi 4
 #
 #
 6. ###### หน้าแสดงข้อมูลของ Admin และแสดงจำนวนรถทั้งหมดของระบบ
-![capture](https://www.img.in.th/images/465f08156bab9b583715ba5d85a09bfa.png)
+[![admindelete.png](https://i.postimg.cc/DzBSZvwk/admindelete.png)](https://postimg.cc/HJ8YvCMB)
 * เป็นหน้าแสดงจำนวนรถทั้งหมดของระบบ
    * แสดงข้อมูลส่วนตัวของ Admin
    * สามารถลบข้อมูลซ้ำซ้อนของตารางได้
