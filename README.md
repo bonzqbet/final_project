@@ -18,7 +18,7 @@ coding run on Raspberry Pi 4
 
 **รายละเอียดของระบบ**
 1. ###### หน้าหลัก Monitor
-![capture](https://www.img.in.th/images/5b3448df13024020c7ed4b5c327866d0.png)
+[![Monitor.png](https://i.postimg.cc/vZSRHCw2/Monitor.png)](https://postimg.cc/cvYkF9Hf)
  * เป็นหน้าหลักเพื่อให้เจ้าหน้าที่ รปภ. ดูว่ารถคันนี้มีการลงทะเบียนกับระบบไว้หรือไม่ 
     * ถ้าพบข้อมูลก็ผ่านไปได้ 
     * ถ้าไม่พบข้อมูล รปภ. ก็จะสร้าง QR Code เพื่อใช้เป็นกุญแจเข้า-ออกในมหาวิทยาลัยพะเยาแทน
