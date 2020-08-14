@@ -44,7 +44,7 @@ coding run on Raspberry Pi 4
 #
 5. ###### หน้าเข้าสู่ระบบของ Admin
 [![adminlogin.png](https://i.postimg.cc/CM6b7NYT/adminlogin.png)](https://postimg.cc/WtgDb0hX)
-* เป็นหน้าที่ Admin เข้าสู่ระบบหลังบ้าน
+* เป็นหน้าสำหรับ Admin เข้าสู่ระบบหลังบ้าน
 #
 #
 6. ###### หน้าแสดงข้อมูลของ Admin และแสดงจำนวนรถทั้งหมดของระบบ
