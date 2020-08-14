@@ -1,6 +1,5 @@
 # Thesis involved Car Inspection System at the Entrance to the University of Phayao
 **ระบบตรวจรถเข้า-ออก ในมหาวิทยาลัยพะเยา**   เป็นระบบที่จะเพิ่มความปลอดภัยให้กับการเข้าออกในมหาวิทยาลัยพะเยา
-[![choose-Status1.png](https://i.postimg.cc/qRqdG0XT/choose-Status1.png)](https://postimg.cc/McC4WCFP)
 
 เนื่องจากทางมหาวิทยาลัยพะเยามีเป็นพื้นที่ปิดและทุกทางเข้า-ออกจะมีจุดตรวจของ รปภ. เพื่อรับและคืนบัตรทุกครั้งที่เข้า-ออกในมหาวิทยาลัยพะเยา และไม่สามารถระบุตัวตนของเจ้าของรถได้
 ดังนั้นจึงเกิดเป็นระบบ **ระบบตรวจรถเข้า-ออก ในมหาวิทยาลัยพะเยา** โดยใช้ library opencv เพื่อตรวจจับแผ่นป้ายทะเบียนรถยนต์แล้วนำมาเปรียบเทียบหาข้อมูลเจ้าของรถในฐานข้อมูล
@@ -26,7 +25,7 @@ coding run on Raspberry Pi 4
 #
 #
 2. ###### หน้าเลือกสถานะของตนเอง
-![capture](https://www.img.in.th/images/3a3236660512cd224922da43465f8dbc.png)
+[![choose-Status1.png](https://i.postimg.cc/qRqdG0XT/choose-Status1.png)](https://postimg.cc/McC4WCFP)
 * เป็นหน้าเลือกสถานะของบุคคลที่ต้องการสมัครใช้งานระบบนี้
 #
 #
