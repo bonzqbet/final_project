@@ -65,7 +65,7 @@ coding run on Raspberry Pi 4
 #
 #
 9. ###### หน้าส่งแจ้งเตือนหรือประกาศต่างๆไปยังผู้ใช้ทุกคน
-![capture](https://www.img.in.th/images/c440f9d35d810fb211d7c1e5345e70cc.png)
+[![adminnotification.png](https://i.postimg.cc/zXrpK7kz/adminnotification.png)](https://postimg.cc/2304f4JM)
 * เป็นหน้าส่ง Notification ไปยังผู้ใช้ทุกคน
 #
 #
