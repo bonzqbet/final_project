@@ -25,7 +25,7 @@ coding run on Raspberry Pi 4
 #
 #
 2. ###### หน้าเลือกสถานะของตนเอง
-![capture](https://www.img.in.th/images/3a3236660512cd224922da43465f8dbc.png)
+![capture](https://sv1.picz.in.th/images/2020/08/14/EDdhcE.png)
 * เป็นหน้าเลือกสถานะของบุคคลที่ต้องการสมัครใช้งานระบบนี้
 #
 #
