@@ -66,7 +66,7 @@ coding run on Raspberry Pi 4
 #
 9. ###### หน้าส่งแจ้งเตือนหรือประกาศต่างๆไปยังผู้ใช้ทุกคน
 [![adminnotification.png](https://i.postimg.cc/zXrpK7kz/adminnotification.png)](https://postimg.cc/2304f4JM)
-* เป็นหน้าส่ง Notification ไปยังผู้ใช้ทุกคน
+* เป็นหน้าส่ง Notification ไปยังผู้ใช้ทุกคนผ่าน LINE message
 #
 #
 10. ###### หน้า interface LINE 
