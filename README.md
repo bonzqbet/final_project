@@ -43,7 +43,7 @@ coding run on Raspberry Pi 4
 #
 #
 5. ###### หน้าเข้าสู่ระบบของ Admin
-![capture](https://www.img.in.th/images/c745b21baeb1c7cf9497d881f36913ae.png)
+[![adminlogin.png](https://i.postimg.cc/CM6b7NYT/adminlogin.png)](https://postimg.cc/WtgDb0hX)
 * เป็นหน้าที่ Admin เข้าสู่ระบบหลังบ้าน
 #
 #
